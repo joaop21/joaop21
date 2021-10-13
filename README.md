@@ -23,7 +23,7 @@
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaop21&count_private=true&include_all_commits=true&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop21&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop21&layout=compact&theme=tokyonight&langs_count=10&hide=TeX,HTML,Jupyter%20Notebook,CSS,Prolog,Rich%20Text%20Format"/>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
