@@ -15,8 +15,11 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I'm currently studying Software Engineering at Universidade do Minho.
-- 🔭 I’m currently working on my Master Thesis **[Distributed Agreement for Microservice Architectures](https://github.com/joaop21/SpringRaft)**.
+- 🎓 I have a MSc in Software Engineering.
+  - Specialized in Dependable Distributed Systems and Applications Engineering.
+  - Feel free to take a look at my Master's Thesis code → **[Distributed Agreement for Microservice Architectures](https://github.com/joaop21/SpringRaft)**.
+- 🔭 I’m currently working as a Backend Developer at **[Subvisual](https://subvisual.com/)**.
+- 🌱 I’m currently learning **[TypeScript](https://www.typescriptlang.org/)**.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
