@@ -19,7 +19,6 @@
   - Specialized in Dependable Distributed Systems and Applications Engineering.
   - Feel free to take a look at my Master's Thesis code → **[Distributed Agreement for Microservice Architectures](https://github.com/joaop21/SpringRaft)**.
 - 🔭 I’m currently working as a Backend Developer at **[Subvisual](https://subvisual.com/)**.
-- 🌱 I’m currently learning **[TypeScript](https://www.typescriptlang.org/)**.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
